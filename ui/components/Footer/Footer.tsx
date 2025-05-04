@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
               <div>
                 <p className="text-green-400 text-sm">Phone:</p>
                 <p className="text-gray-400 text-sm">
-                  +91 xxxxxxxxxx, +91 xxxxxxxxxx
+                  +91 XXXXXXXXXX, +91 XXXXXXXXXX
                 </p>
               </div>
               <div>
