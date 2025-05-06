@@ -129,10 +129,10 @@ const ContactSection: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-green-400 text-lg font-medium">
-                    Visit Our Store
+                    Visit Our Company
                   </h3>
                   <p className="text-gray-300">
-                    Chandpur, Bijnor(246725)
+                    Chandpur, Bijnor, Uttar Pradesh, India-246725
                   </p>
                 </div>
               </div>

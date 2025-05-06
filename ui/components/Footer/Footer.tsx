@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
               <div>
                 <p className="text-green-400 text-sm">Address:</p>
                 <p className="text-gray-400 text-sm">
-                  Chandpur, Bijnor (246725)
+                  Chandpur, Bijnor, Uttar Pradesh, India-246725
                 </p>
               </div>
               <div>
